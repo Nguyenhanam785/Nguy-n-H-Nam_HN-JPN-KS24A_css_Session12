@@ -1,0 +1,15 @@
+.container {
+    max-width: 800px;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.table {
+    text-align: center;
+}
+
+th {
+    text-transform: uppercase;
+}
